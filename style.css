@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Estilizando Fontes*/
+body *{
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
+}
+
+/* Add Bg-imag*/
+body{
+    background-image: url(./assets/bg.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-color: #121214;
+}
