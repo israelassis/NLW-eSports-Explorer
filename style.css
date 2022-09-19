@@ -105,6 +105,23 @@ section ul{
     border: 1px solid #443e54;
 }
 
+/* -------Animação header------------------ */
+
+header div{
+    animation: fromTop .7s backwards;
+}
+
+@keyframes fromTop{
+    from{
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0);
+
+    }
+}
 
 
 
