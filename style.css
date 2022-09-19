@@ -38,3 +38,14 @@ header div{
     display: flex;
     padding: 4px;
 }
+
+/*Dimennsionar o tamanho do Card*/
+main{
+    max-width: 580px;
+    width: 90%;
+    margin: 32px auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
