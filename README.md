@@ -1,7 +1,8 @@
-<h1 align="center"> Next Level Week - NLW </h1>
+<h1 align="center">🚀 Next Level Week - NLW </h1>
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">_ -->
 <br><br>
 
-Trabalho desenvolvido em conjunto com a plataforma Rocketseat<br>
+Trabalho desenvolvido em conjunto com a Rocketseat (Plataforma [Coding School](https://www.rocketseat.com.br/sobre)) <br>
 Uma semana inteira de conteúdos práticos voltados para programação!
  
 
@@ -34,7 +35,11 @@ Na semana focamos na criação pratica de Crachá Social e na intereção com a 
 <a href="mailto:assis.phn@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-assis.phn-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
-<br><br>
+<br>
+<br>
+<br>
 
-## Agradecimentos
-Muito obrigado pela experiência [Mayk Brito](https://github.com/maykbrito) e toda equipe da [Rocketseat](https://blog.rocketseat.com.br/) &nbsp;<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> 
+
+---
+_Muito obrigado pela experiência</h6> [Mayk Brito](https://github.com/maykbrito)💜 e toda equipe da [Rocketseat](https://blog.rocketseat.com.br/)💜_
+
