@@ -1,7 +1,6 @@
-<h1 align="center"> Next Level Week - NLW </h1>
-<br>
+<h1 align="center"> Next Level Week - NLW <br><br>Uma semana inteira de conteúdos práticos voltados para programação</h1>
  
-<p align="left">&nbsp; Uma semana inteira de conteúdos práticos voltados para programação 
+
 
 <br>
 
