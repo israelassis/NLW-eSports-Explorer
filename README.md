@@ -10,7 +10,7 @@ Uma semana inteira de conteúdos práticos voltados para programação!
 
 O objetivo da NLW é específico e direto: treinar e capacitar e foi o que fizemos! 
 Na semana focamos na criação pratica de Crachá Social e na intereção com a comunidade atraves dos desafios práticos.
-<br>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;&nbsp;
