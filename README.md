@@ -2,10 +2,12 @@
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">_ -->
 <br><br>
 
+
 Trabalho desenvolvido em conjunto com a Rocketseat (Plataforma [Coding School](https://www.rocketseat.com.br/sobre)) <br>
 Uma semana inteira de conteúdos práticos voltados para programação!
  
-
+<!-- ajustar link para acessar o projeto
+[🔗 Clique aqui para acessar](https://github.com/israelassis/NLW-eSports-Explorer) -->
 
 <br>
 
