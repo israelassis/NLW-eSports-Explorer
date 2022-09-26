@@ -7,6 +7,7 @@ Trabalho desenvolvido em conjunto com a Rocketseat (Plataforma [Coding School](h
 Uma semana inteira de conteúdos práticos voltados para programação!
  
 <!-- ajustar link para acessar o projeto
+[🔗 Clique aqui para acessar](https://israelassis.github.io/NLW-eSports-Explorer)
 [🔗 Clique aqui para acessar](https://github.com/israelassis/NLW-eSports-Explorer) -->
 
 <br>
